@@ -40,32 +40,28 @@ This repository collects, organizes, and documents these aliases in one central,
 - Improve code readability and consistency across teams and projects.
 - Serve as an “alias encyclopedia” for Python libraries of all kinds.
 
-This project is not prescriptive. Some developers prefer full module names, and many discussions highlight that excessive alias usage can reduce readability. 
+This project is not prescriptive. Some developers prefer full module names, and many discussions highlight that excessive alias usage can reduce readability.
 
 Our purpose is simply to **document what the community already does**, not to dictate style.
 
 ## 📚 Contents
+
 Aliases are organized by domain:
 
-- **Scientific Computing**
+- **Scientific Computing**<br>
   NumPy, pandas, matplotlib, SciPy, seaborn, xarray, etc.
 
-
-- **Machine Learning & AI**
+- **Machine Learning & AI**<br>
   TensorFlow, PyTorch, scikit‑learn, Theano, JAX, etc.
 
-
-- **Data Engineering & Big Data**
+- **Data Engineering & Big Data**<br>
   PySpark, Dask, Polars, etc.
 
-
-- **Web Development**
+- **Web Development**<br>
   Flask, Django, FastAPI, Requests, etc.
 
-
-- **Miscellaneous & Utilities**
+- **Miscellaneous & Utilities**<br>
   Standard library modules, general-purpose libraries, small tools.
-
 
 Each category lives in its own markdown file under the aliases/ directory.
 
@@ -74,7 +70,7 @@ Each category lives in its own markdown file under the aliases/ directory.
 A taste of what you’ll find inside:
 
 | **Package**       | **Alias** | **Import Example**              |
-|-------------------|-----------|---------------------------------|
+| ----------------- | --------- | ------------------------------- |
 | NumPy             | np        | import numpy as np              |
 | pandas            | pd        | import pandas as pd             |
 | matplotlib.pyplot | plt       | import matplotlib.pyplot as plt |
@@ -88,17 +84,17 @@ Many of these appear frequently in community-driven alias lists.
 
 Common reasons include:
 
-- **Shorter code**
-  Using np.array() is cleaner than numpy.array().
+- **Shorter code**<br>
+  Using np.array() is cleaner than numpy.array().<br>
   Common alias examples include packages like numpy → np, pandas → pd.
 
-- **Community standards**
+- **Community standards**<br>
   Many libraries have widely accepted conventional aliases.
 
-- **Consistency**
+- **Consistency**<br>
   Predictable naming across projects helps new contributors onboard faster.
 
-- **Readability for heavy‑use modules**
+- **Readability for heavy‑use modules**<br>
   For frequently used namespaces, aliases reduce clutter.
 
 ## ⚠️ When Not to Use Aliases
@@ -129,5 +125,3 @@ Guidelines:
 - Only add aliases that are in real-world use
 - Mark non-standard aliases clearly
 - Add references where applicable (tutorials, documentation, etc.)
-
-
