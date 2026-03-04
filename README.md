@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/jbakchr/python-import-aliases?style=for-the-badge" />
   <img src="https://img.shields.io/github/forks/jbakchr/python-import-aliases?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/jbakchr/python-import-aliases?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20with%E2%9D%A4%EF%B8%8F-in%20Denmark-red?style=for-the-badge" />
