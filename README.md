@@ -14,13 +14,14 @@ _**A concise, community‑maintained reference of the most common and widely acc
 
 1. [Why Python Import Aliases Matter](#--why-python-import-aliases-matter)
 2. [Goal of This Repository](#-goal-of-this-repository)
-3. [Contents](#-contents)
-4. [Example: Scientific Computing Aliases](#️-example-scientific-computing-aliases)
-5. [Why Use Aliases?](#-why-use-aliases)
-6. [When Not to Use Aliases](#️-when-not-to-use-aliases)
-7. [Contributing](#-contributing)
-8. [License](#-license)
-9. [Acknowledgements](#-acknowledgements)
+3. [Quick Start](#-quick-start)
+4. [Contents](#-contents)
+5. [Example: Scientific Computing Aliases](#️-example-scientific-computing-aliases)
+6. [Why Use Aliases?](#-why-use-aliases)
+7. [When Not to Use Aliases](#️-when-not-to-use-aliases)
+8. [Contributing](#-contributing)
+9. [License](#-license)
+10. [Acknowledgements](#-acknowledgements)
 
 ## 👉 💡 Why Python Import Aliases Matter
 
@@ -56,6 +57,12 @@ This repository collects, organizes, and documents these aliases in one central,
 This project is not prescriptive. Some developers prefer full module names, and many discussions highlight that excessive alias usage can reduce readability.
 
 Our purpose is simply to **document what the community already does**, not to dictate style.
+
+## 🚀 Quick Start
+
+Browse aliases by domain:
+
+- [Scientific Computing](aliases/scientific.md)
 
 ## 📚 Contents
 
