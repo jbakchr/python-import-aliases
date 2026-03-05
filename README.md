@@ -10,7 +10,17 @@
 
 **A concise, community‑maintained reference of the most common and widely accepted Python import aliases (e.g., `np`, `pd`, `plt`). Quick to browse, easy to search, and organized by domain for fast lookup.**
 
-_A community‑driven reference of common and widely accepted Python import aliases._
+## 📑 Table of Contents
+
+- [Why Python Import Aliases Matter](#--why-python-import-aliases-matter)
+- [Goal of This Repository](#-goal-of-this-repository)
+- [Contents](#-contents)
+- [Example: Scientific Computing Aliases](#️-example-scientific-computing-aliases)
+- [Why Use Aliases?](#-why-use-aliases)
+- [When Not to Use Aliases](#️-when-not-to-use-aliases)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgements](#-acknowledgements)
 
 ## 👉 💡 Why Python Import Aliases Matter
 
