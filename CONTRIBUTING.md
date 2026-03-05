@@ -1,8 +1,8 @@
 # 👐 Contributing to python-import-aliases
 
-Thank you for your interest in contributing!
+Thank you for your interest in contributing! 💚
 
-This project aims to build a clear, community‑maintained reference of commonly used Python import aliases — from well‑established conventions like import numpy as np to domain‑specific abbreviations used across scientific computing, machine learning, data engineering, and more.
+This project aims to build a clear, community‑maintained reference of commonly used Python import aliases — from well‑established conventions like `import numpy as np` to domain‑specific abbreviations used across scientific computing, machine learning, data engineering, and more.
 
 Some community discussions highlight the prevalence of common aliases such as those used for pandas and numpy, showing the value of documenting such conventions.
 
@@ -37,7 +37,7 @@ Use a descriptive name that reflects your contribution.
 
 ### ✔ Where to add aliases
 
-Aliases should be added to the appropriate file in the aliases/ directory:
+Aliases should be added to the appropriate file in the `aliases/` directory:
 
 - scientific.md
 - machine-learning.md
@@ -52,29 +52,34 @@ If your alias doesn’t clearly belong in an existing category, feel free to pla
 Each alias entry should follow this structure:
 
 ````
-### Library Name
+## Library name → `alias`
 
-- **Alias:** `xyz`
-- **Import Example:**
-  ```python
-  import library_name as xyz
+**Import**
+```python
+import library_name as xyz
+```
+
+**Notes (optional)**
+Notes about why alias is commonly used with links to relevant documentation or examples
+
 ````
 
-- **Notes (optional):**
-  - Why this alias is commonly used
-  - Links to relevant documentation or examples
-
-## ✔ Example
+## ✔ Alias Entry Examples
 
 ### pandas
 
-- **Alias:** pd
-- **Import Example:**
-  ```python
+````
+## pandas → `pd`
+
+**Import**
+```python
   import pandas as pd
-  ```
-- **Notes:**<br>
-  A widely recognized community convention used across tutorials and documentation.
+```
+
+**Notes**
+A widely recognized community convention used across tutorials and documentation.
+
+````
 
 ## 🧹 Contribution Guidelines
 
@@ -87,7 +92,7 @@ This repo documents _existing_ conventions, not theoretical ones.
 ### ✔ Avoid overly obscure or personal aliases
 
 For example:  
-❌ `import numpy as n` (not widely used, not meaningful)
+❌ `import numpy as n` (**not** widely used, **not** meaningful)
 
 ### ✔ Add notes when an alias is not universally recognized
 
