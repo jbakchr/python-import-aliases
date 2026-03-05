@@ -124,3 +124,13 @@ Guidelines:
 - Only add aliases that are in real-world use
 - Mark non-standard aliases clearly
 - Add references where applicable (tutorials, documentation, etc.)
+
+## 📄 License
+
+This project is released under the MIT License.
+
+Feel free to use, copy, and adapt this for your own projects.
+
+## ⭐ Acknowledgements
+
+Thanks to the Python community, tutorials, articles, and discussions that inspired this repository. The idea of collecting alias conventions is supported by numerous posts and guides that highlight common module abbreviations and best practices.
