@@ -49,7 +49,7 @@ pd is the standard alias in tutorials and documentation.
 **Import**
 
 ```python
-import seaborn as snsShow more lines
+import seaborn as sns
 ```
 
 **Notes**
