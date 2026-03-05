@@ -8,6 +8,9 @@
 
 # python-import-aliases
 
+**A concise, community‑maintained reference of the most common and widely accepted Python import aliases (e.g., `np`, `pd`, `plt`).  
+Quick to browse, easy to search, and organized by domain for fast lookup.**
+
 _A community‑driven reference of common and widely accepted Python import aliases._
 
 Python developers frequently use short, conventional aliases when importing popular libraries—for example:
