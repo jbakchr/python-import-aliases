@@ -12,15 +12,15 @@
 
 ## 📑 Table of Contents
 
-- [Why Python Import Aliases Matter](#--why-python-import-aliases-matter)
-- [Goal of This Repository](#-goal-of-this-repository)
-- [Contents](#-contents)
-- [Example: Scientific Computing Aliases](#️-example-scientific-computing-aliases)
-- [Why Use Aliases?](#-why-use-aliases)
-- [When Not to Use Aliases](#️-when-not-to-use-aliases)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Acknowledgements](#-acknowledgements)
+1. [Why Python Import Aliases Matter](#--why-python-import-aliases-matter)
+2. [Goal of This Repository](#-goal-of-this-repository)
+3. [Contents](#-contents)
+4. [Example: Scientific Computing Aliases](#️-example-scientific-computing-aliases)
+5. [Why Use Aliases?](#-why-use-aliases)
+6. [When Not to Use Aliases](#️-when-not-to-use-aliases)
+7. [Contributing](#-contributing)
+8. [License](#-license)
+9. [Acknowledgements](#-acknowledgements)
 
 ## 👉 💡 Why Python Import Aliases Matter
 
